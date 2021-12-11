@@ -1,0 +1,30 @@
+#skills{
+    padding: 15px;
+}
+#skills h1{
+    padding-left: 30px;
+    font-family: Tempus Sans ITC;
+}
+#bars {
+	margin: 2em auto;
+	max-width: 1500px;
+	overflow: hidden;
+}
+
+.bar {
+	float: left;
+	width: 20%;
+	text-align: center;
+}
+
+.bar h3 {
+	font-size: 1.4em;
+	font-weight: normal;
+	margin: 0;
+	text-transform: uppercase;
+}
+
+.bar-circle {
+	display: block;
+	margin: 0.7em auto;
+}
